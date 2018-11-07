@@ -1,3 +1,10 @@
+Download the Java_homework project file from here. Import this into Eclipse by selecting File | Import | “General” | “Existing Projects into Workspace”. 
+
+
+
+
+
+
 1) Sphere 
 
 Design and implement a class called Sphere that contains instance data that represent a sphere’s diameter. 
